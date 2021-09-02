@@ -1,0 +1,22 @@
+{
+  "name": "nodepdf",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "date-format": "^3.0.0",
+    "dateformat": "^4.5.1",
+    "express": "^4.17.1",
+    "moment": "^2.29.1",
+    "nodemon": "^2.0.12",
+    "pdf-creator-node": "^2.2.4",
+    "swagger-jsdoc": "5.0.1",
+    "swagger-ui-express": "^4.1.6"
+  }
+}
